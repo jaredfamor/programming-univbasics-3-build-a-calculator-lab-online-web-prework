@@ -1,5 +1,5 @@
 def addition(num1, num2)
- total = 5+5 
+ total = 5+4
 end
 
 def subtraction(num1, num2)
