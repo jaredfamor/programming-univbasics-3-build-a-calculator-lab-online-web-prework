@@ -1,5 +1,7 @@
 def addition(num1, num2)
   "num1+num2=9"
+  4+5=9
+  9=9
 end
 
 def subtraction(num1, num2)
