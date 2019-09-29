@@ -1,5 +1,5 @@
 def addition(num1, num2)
-"6+3" = 9
+"6+3 = 9"
 end
 
 def subtraction(num1, num2)
