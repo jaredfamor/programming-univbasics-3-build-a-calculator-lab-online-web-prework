@@ -18,6 +18,5 @@ def modulo(num1, num2)
 modulo = 34 % 5
 end
 
-def square_root(num)
-total = sqrt 81
+sqrt = 81
 end
