@@ -11,7 +11,7 @@ quotient = 50/2
 end
 
 def multiplication(num1, num2)
-
+product = 5 * 5
 end
 
 def modulo(num1, num2)
