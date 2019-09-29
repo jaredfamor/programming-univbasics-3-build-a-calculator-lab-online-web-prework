@@ -19,5 +19,5 @@ modulo = 34 % 5
 end
 
 def square_root(num)
-sqrt = "9"
+sqrt = 9
 end
