@@ -7,7 +7,7 @@ sum = 10-5
 end
 
 def division(num1, num2)
-quotient = 25/5
+quotient = 5/25
 end
 
 def multiplication(num1, num2)
