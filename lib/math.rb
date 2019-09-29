@@ -19,5 +19,5 @@ modulo = 34 % 5
 end
 
 def square_root(num)
-total = sqrt(81)
+total = square_root(81)
 end
