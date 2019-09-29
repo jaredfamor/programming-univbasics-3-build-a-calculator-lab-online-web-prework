@@ -19,6 +19,6 @@ modulo = 34 % 5
 end
 
 def square_root(num)
-  square_root = 81** 9
+  square_root = 81! 9
 
 end
